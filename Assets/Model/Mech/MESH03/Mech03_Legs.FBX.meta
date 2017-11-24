@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: a222562f71f7b4c40b08a4293367e12c
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Bone_B_L01
+    100002: Bone_B_L02
+    100004: Bone_B_L03
+    100006: Bone_B_L04
+    100008: Bone_B_L_end
+    100010: Bone_B_R01
+    100012: Bone_B_R02
+    100014: Bone_B_R03
+    100016: Bone_B_R04
+    100018: Bone_B_R_end
+    100020: bone_body
+    100022: Bone_F_L01
+    100024: Bone_F_L02
+    100026: Bone_F_L03
+    100028: Bone_F_L04
+    100030: Bone_F_L_end
+    100032: Bone_F_R01
+    100034: Bone_F_R02
+    100036: Bone_F_R03
+    100038: Bone_F_R04
+    100040: Bone_F_R_end
+    100042: bone_leg
+    100044: IK Chain001
+    100046: IK Chain002
+    100048: IK Chain003
+    100050: IK Chain004
+    100052: IK Chain005
+    100054: IK Chain006
+    100056: IK Chain007
+    100058: IK Chain008
+    100060: //RootNode
+    100062: Leg
+    100064: leg_B_L01
+    100066: leg_B_L02
+    100068: leg_B_L03
+    100070: leg_B_L04
+    100072: leg_B_L_point
+    100074: leg_B_R01
+    100076: leg_B_R02
+    100078: leg_B_R03
+    100080: leg_B_R04
+    100082: leg_B_R_point
+    100084: leg_F_L01
+    100086: leg_F_L02
+    100088: leg_F_L03
+    100090: leg_F_L04
+    100092: leg_F_L_point
+    100094: leg_F_R01
+    100096: leg_F_R02
+    100098: leg_F_R03
+    100100: leg_F_R04
+    100102: leg_F_R_point
+    100104: MECH03_bone
+    400000: Bone_B_L01
+    400002: Bone_B_L02
+    400004: Bone_B_L03
+    400006: Bone_B_L04
+    400008: Bone_B_L_end
+    400010: Bone_B_R01
+    400012: Bone_B_R02
+    400014: Bone_B_R03
+    400016: Bone_B_R04
+    400018: Bone_B_R_end
+    400020: bone_body
+    400022: Bone_F_L01
+    400024: Bone_F_L02
+    400026: Bone_F_L03
+    400028: Bone_F_L04
+    400030: Bone_F_L_end
+    400032: Bone_F_R01
+    400034: Bone_F_R02
+    400036: Bone_F_R03
+    400038: Bone_F_R04
+    400040: Bone_F_R_end
+    400042: bone_leg
+    400044: IK Chain001
+    400046: IK Chain002
+    400048: IK Chain003
+    400050: IK Chain004
+    400052: IK Chain005
+    400054: IK Chain006
+    400056: IK Chain007
+    400058: IK Chain008
+    400060: //RootNode
+    400062: Leg
+    400064: leg_B_L01
+    400066: leg_B_L02
+    400068: leg_B_L03
+    400070: leg_B_L04
+    400072: leg_B_L_point
+    400074: leg_B_R01
+    400076: leg_B_R02
+    400078: leg_B_R03
+    400080: leg_B_R04
+    400082: leg_B_R_point
+    400084: leg_F_L01
+    400086: leg_F_L02
+    400088: leg_F_L03
+    400090: leg_F_L04
+    400092: leg_F_L_point
+    400094: leg_F_R01
+    400096: leg_F_R02
+    400098: leg_F_R03
+    400100: leg_F_R04
+    400102: leg_F_R_point
+    400104: MECH03_bone
+    2300000: Leg
+    2300002: leg_B_L01
+    2300004: leg_B_L02
+    2300006: leg_B_L03
+    2300008: leg_B_L04
+    2300010: leg_B_R01
+    2300012: leg_B_R02
+    2300014: leg_B_R03
+    2300016: leg_B_R04
+    2300018: leg_F_L01
+    2300020: leg_F_L02
+    2300022: leg_F_L03
+    2300024: leg_F_L04
+    2300026: leg_F_R01
+    2300028: leg_F_R02
+    2300030: leg_F_R03
+    2300032: leg_F_R04
+    3300000: Leg
+    3300002: leg_B_L01
+    3300004: leg_B_L02
+    3300006: leg_B_L03
+    3300008: leg_B_L04
+    3300010: leg_B_R01
+    3300012: leg_B_R02
+    3300014: leg_B_R03
+    3300016: leg_B_R04
+    3300018: leg_F_L01
+    3300020: leg_F_L02
+    3300022: leg_F_L03
+    3300024: leg_F_L04
+    3300026: leg_F_R01
+    3300028: leg_F_R02
+    3300030: leg_F_R03
+    3300032: leg_F_R04
+    4300000: Leg
+    4300002: leg_B_R04
+    4300004: leg_B_R03
+    4300006: leg_B_R02
+    4300008: leg_B_R01
+    4300010: leg_F_R04
+    4300012: leg_F_R03
+    4300014: leg_F_R02
+    4300016: leg_F_R01
+    4300018: leg_F_L04
+    4300020: leg_F_L03
+    4300022: leg_F_L02
+    4300024: leg_F_L01
+    4300026: leg_B_L04
+    4300028: leg_B_L03
+    4300030: leg_B_L02
+    4300032: leg_B_L01
+    7400000: Mech03Idle
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: Mech03Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      keepAdditionalBonesAnimation: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      skeletonMaskElements: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

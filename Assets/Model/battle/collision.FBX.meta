@@ -1,0 +1,76 @@
+fileFormatVersion: 2
+guid: 5480d7e1d12708c48a975344eb48340a
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: collider_00
+    100002: collider_01
+    100004: collider_02
+    100006: //RootNode
+    400000: collider_00
+    400002: collider_01
+    400004: collider_02
+    400006: //RootNode
+    2300000: collider_00
+    2300002: collider_01
+    2300004: collider_02
+    3300000: collider_00
+    3300002: collider_01
+    3300004: collider_02
+    4300000: collider_01
+    4300002: collider_02
+    4300004: collider_00
+    6400000: collider_00
+    6400002: collider_01
+    6400004: collider_02
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

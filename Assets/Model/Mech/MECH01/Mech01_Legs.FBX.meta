@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: b9de8ff5f78b2864e8917251f94e86dd
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: ' Pelvis'
+    100002: ' Pelvis_link'
+    100004: Bone0_foot_end_R
+    100006: Bone0_foot_R01
+    100008: Bone_calf_leg_L
+    100010: Bone_calf_leg_R
+    100012: Bone_end_L
+    100014: Bone_end_R
+    100016: Bone_foot_end_L
+    100018: Bone_foot_L
+    100020: bone_foot_L
+    100022: Bone_foot_L01
+    100024: Bone_foot_R
+    100026: bone_foot_R
+    100028: Bone_thigh_leg_L
+    100030: Bone_thigh_leg_R
+    100032: bone_upper_foot_L
+    100034: bone_upper_foot_R
+    100036: calf_L
+    100038: calf_R
+    100040: foot_L
+    100042: foot_R
+    100044: IK Chain_L
+    100046: IK Chain_R
+    100048: //RootNode
+    100050: main
+    100052: Point_bone
+    100054: thigh_L
+    100056: thigh_R
+    400000: ' Pelvis'
+    400002: ' Pelvis_link'
+    400004: Bone0_foot_end_R
+    400006: Bone0_foot_R01
+    400008: Bone_calf_leg_L
+    400010: Bone_calf_leg_R
+    400012: Bone_end_L
+    400014: Bone_end_R
+    400016: Bone_foot_end_L
+    400018: Bone_foot_L
+    400020: bone_foot_L
+    400022: Bone_foot_L01
+    400024: Bone_foot_R
+    400026: bone_foot_R
+    400028: Bone_thigh_leg_L
+    400030: Bone_thigh_leg_R
+    400032: bone_upper_foot_L
+    400034: bone_upper_foot_R
+    400036: calf_L
+    400038: calf_R
+    400040: foot_L
+    400042: foot_R
+    400044: IK Chain_L
+    400046: IK Chain_R
+    400048: //RootNode
+    400050: main
+    400052: Point_bone
+    400054: thigh_L
+    400056: thigh_R
+    2300000: ' Pelvis'
+    2300002: calf_L
+    2300004: calf_R
+    2300006: foot_L
+    2300008: foot_R
+    2300010: thigh_L
+    2300012: thigh_R
+    3300000: ' Pelvis'
+    3300002: calf_L
+    3300004: calf_R
+    3300006: foot_L
+    3300008: foot_R
+    3300010: thigh_L
+    3300012: thigh_R
+    4300000: calf_R
+    4300002: thigh_R
+    4300004: calf_L
+    4300006: thigh_L
+    4300008: ' Pelvis'
+    4300010: foot_L
+    4300012: foot_R
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

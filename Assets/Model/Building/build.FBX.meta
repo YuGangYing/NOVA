@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 4b1c7481600d083499d751a6dfb46e7d
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Building04
+    100004: building05
+    100006: Group01
+    100008: KA_Building01
+    100010: KA_building02
+    100012: KA_Building03
+    100014: KA_building04
+    100016: KA_building06
+    100018: KA_building08
+    100020: KA_Rubble
+    100022: KS_building07
+    100024: Line03
+    100026: Line04
+    100028: Object56
+    100030: Object58
+    100032: Object67
+    100034: Object68
+    100036: objObject05
+    100038: Particle View 01
+    400000: //RootNode
+    400002: Building04
+    400004: building05
+    400006: Group01
+    400008: KA_Building01
+    400010: KA_building02
+    400012: KA_Building03
+    400014: KA_building04
+    400016: KA_building06
+    400018: KA_building08
+    400020: KA_Rubble
+    400022: KS_building07
+    400024: Line03
+    400026: Line04
+    400028: Object56
+    400030: Object58
+    400032: Object67
+    400034: Object68
+    400036: objObject05
+    400038: Particle View 01
+    2300000: Building04
+    2300002: building05
+    2300004: KA_Building01
+    2300006: KA_building02
+    2300008: KA_Building03
+    2300010: KA_building04
+    2300012: KA_building06
+    2300014: KA_building08
+    2300016: KA_Rubble
+    2300018: KS_building07
+    2300020: Line03
+    2300022: Line04
+    2300024: Object56
+    2300026: Object58
+    2300028: Object67
+    2300030: Object68
+    2300032: objObject05
+    3300000: Building04
+    3300002: building05
+    3300004: KA_Building01
+    3300006: KA_building02
+    3300008: KA_Building03
+    3300010: KA_building04
+    3300012: KA_building06
+    3300014: KA_building08
+    3300016: KA_Rubble
+    3300018: KS_building07
+    3300020: Line03
+    3300022: Line04
+    3300024: Object56
+    3300026: Object58
+    3300028: Object67
+    3300030: Object68
+    3300032: objObject05
+    4300000: KA_building06
+    4300002: KA_building04
+    4300004: building05
+    4300006: objObject05
+    4300008: Object67
+    4300010: Object56
+    4300012: Object68
+    4300014: Line04
+    4300016: Line03
+    4300018: Object58
+    4300020: KA_building08
+    4300022: KA_Building03
+    4300024: KA_Rubble
+    4300026: KA_Building01
+    4300028: Building04
+    4300030: KA_building02
+    4300032: KS_building07
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

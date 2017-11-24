@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: 84bdc8cd45fd911418584d435bda64ba
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: prop_01_
+    100004: prop_01_ 1
+    100006: prop_01_ 10
+    100008: prop_01_ 11
+    100010: prop_01_ 12
+    100012: prop_01_ 13
+    100014: prop_01_ 14
+    100016: prop_01_ 15
+    100018: prop_01_ 16
+    100020: prop_01_ 17
+    100022: prop_01_ 18
+    100024: prop_01_ 19
+    100026: prop_01_ 2
+    100028: prop_01_ 20
+    100030: prop_01_ 21
+    100032: prop_01_ 22
+    100034: prop_01_ 23
+    100036: prop_01_ 24
+    100038: prop_01_ 25
+    100040: prop_01_ 26
+    100042: prop_01_ 27
+    100044: prop_01_ 28
+    100046: prop_01_ 29
+    100048: prop_01_ 3
+    100050: prop_01_ 30
+    100052: prop_01_ 31
+    100054: prop_01_ 4
+    100056: prop_01_ 5
+    100058: prop_01_ 6
+    100060: prop_01_ 7
+    100062: prop_01_ 8
+    100064: prop_01_ 9
+    100066: prop_01_00
+    100068: prop_01_01
+    100070: prop_01_02
+    100072: prop_01_03
+    100074: prop_01_04
+    100076: prop_01_05
+    100078: prop_01_06
+    100080: prop_01_07
+    100082: prop_01_08
+    100084: prop_01_09
+    100086: prop_01_10
+    100088: prop_01_11
+    100090: prop_01_12
+    100092: prop_01_13
+    100094: prop_01_14
+    100096: prop_01_15
+    100098: prop_01_16
+    100100: prop_01_17
+    100102: prop_01_18
+    100104: prop_01_19
+    100106: prop_01_20
+    100108: prop_01_21
+    100110: prop_01_22
+    100112: prop_01_23
+    100114: prop_01_24
+    100116: prop_01_25
+    100118: prop_01_26
+    100120: prop_01_27
+    100122: prop_01_28
+    100124: prop_01_29
+    100126: prop_01_30
+    100128: prop_01_31
+    400000: //RootNode
+    400002: prop_01_
+    400004: prop_01_ 1
+    400006: prop_01_ 10
+    400008: prop_01_ 11
+    400010: prop_01_ 12
+    400012: prop_01_ 13
+    400014: prop_01_ 14
+    400016: prop_01_ 15
+    400018: prop_01_ 16
+    400020: prop_01_ 17
+    400022: prop_01_ 18
+    400024: prop_01_ 19
+    400026: prop_01_ 2
+    400028: prop_01_ 20
+    400030: prop_01_ 21
+    400032: prop_01_ 22
+    400034: prop_01_ 23
+    400036: prop_01_ 24
+    400038: prop_01_ 25
+    400040: prop_01_ 26
+    400042: prop_01_ 27
+    400044: prop_01_ 28
+    400046: prop_01_ 29
+    400048: prop_01_ 3
+    400050: prop_01_ 30
+    400052: prop_01_ 31
+    400054: prop_01_ 4
+    400056: prop_01_ 5
+    400058: prop_01_ 6
+    400060: prop_01_ 7
+    400062: prop_01_ 8
+    400064: prop_01_ 9
+    400066: prop_01_00
+    400068: prop_01_01
+    400070: prop_01_02
+    400072: prop_01_03
+    400074: prop_01_04
+    400076: prop_01_05
+    400078: prop_01_06
+    400080: prop_01_07
+    400082: prop_01_08
+    400084: prop_01_09
+    400086: prop_01_10
+    400088: prop_01_11
+    400090: prop_01_12
+    400092: prop_01_13
+    400094: prop_01_14
+    400096: prop_01_15
+    400098: prop_01_16
+    400100: prop_01_17
+    400102: prop_01_18
+    400104: prop_01_19
+    400106: prop_01_20
+    400108: prop_01_21
+    400110: prop_01_22
+    400112: prop_01_23
+    400114: prop_01_24
+    400116: prop_01_25
+    400118: prop_01_26
+    400120: prop_01_27
+    400122: prop_01_28
+    400124: prop_01_29
+    400126: prop_01_30
+    400128: prop_01_31
+    2300000: prop_01_
+    2300002: prop_01_ 1
+    2300004: prop_01_ 10
+    2300006: prop_01_ 11
+    2300008: prop_01_ 12
+    2300010: prop_01_ 13
+    2300012: prop_01_ 14
+    2300014: prop_01_ 15
+    2300016: prop_01_ 16
+    2300018: prop_01_ 17
+    2300020: prop_01_ 18
+    2300022: prop_01_ 19
+    2300024: prop_01_ 2
+    2300026: prop_01_ 20
+    2300028: prop_01_ 21
+    2300030: prop_01_ 22
+    2300032: prop_01_ 23
+    2300034: prop_01_ 24
+    2300036: prop_01_ 25
+    2300038: prop_01_ 26
+    2300040: prop_01_ 27
+    2300042: prop_01_ 28
+    2300044: prop_01_ 29
+    2300046: prop_01_ 3
+    2300048: prop_01_ 30
+    2300050: prop_01_ 31
+    2300052: prop_01_ 4
+    2300054: prop_01_ 5
+    2300056: prop_01_ 6
+    2300058: prop_01_ 7
+    2300060: prop_01_ 8
+    2300062: prop_01_ 9
+    2300064: prop_01_00
+    2300066: prop_01_01
+    2300068: prop_01_02
+    2300070: prop_01_03
+    2300072: prop_01_04
+    2300074: prop_01_05
+    2300076: prop_01_06
+    2300078: prop_01_07
+    2300080: prop_01_08
+    2300082: prop_01_09
+    2300084: prop_01_10
+    2300086: prop_01_11
+    2300088: prop_01_12
+    2300090: prop_01_13
+    2300092: prop_01_14
+    2300094: prop_01_15
+    2300096: prop_01_16
+    2300098: prop_01_17
+    2300100: prop_01_18
+    2300102: prop_01_19
+    2300104: prop_01_20
+    2300106: prop_01_21
+    2300108: prop_01_22
+    2300110: prop_01_23
+    2300112: prop_01_24
+    2300114: prop_01_25
+    2300116: prop_01_26
+    2300118: prop_01_27
+    2300120: prop_01_28
+    2300122: prop_01_29
+    2300124: prop_01_30
+    2300126: prop_01_31
+    3300000: prop_01_
+    3300002: prop_01_ 1
+    3300004: prop_01_ 10
+    3300006: prop_01_ 11
+    3300008: prop_01_ 12
+    3300010: prop_01_ 13
+    3300012: prop_01_ 14
+    3300014: prop_01_ 15
+    3300016: prop_01_ 16
+    3300018: prop_01_ 17
+    3300020: prop_01_ 18
+    3300022: prop_01_ 19
+    3300024: prop_01_ 2
+    3300026: prop_01_ 20
+    3300028: prop_01_ 21
+    3300030: prop_01_ 22
+    3300032: prop_01_ 23
+    3300034: prop_01_ 24
+    3300036: prop_01_ 25
+    3300038: prop_01_ 26
+    3300040: prop_01_ 27
+    3300042: prop_01_ 28
+    3300044: prop_01_ 29
+    3300046: prop_01_ 3
+    3300048: prop_01_ 30
+    3300050: prop_01_ 31
+    3300052: prop_01_ 4
+    3300054: prop_01_ 5
+    3300056: prop_01_ 6
+    3300058: prop_01_ 7
+    3300060: prop_01_ 8
+    3300062: prop_01_ 9
+    3300064: prop_01_00
+    3300066: prop_01_01
+    3300068: prop_01_02
+    3300070: prop_01_03
+    3300072: prop_01_04
+    3300074: prop_01_05
+    3300076: prop_01_06
+    3300078: prop_01_07
+    3300080: prop_01_08
+    3300082: prop_01_09
+    3300084: prop_01_10
+    3300086: prop_01_11
+    3300088: prop_01_12
+    3300090: prop_01_13
+    3300092: prop_01_14
+    3300094: prop_01_15
+    3300096: prop_01_16
+    3300098: prop_01_17
+    3300100: prop_01_18
+    3300102: prop_01_19
+    3300104: prop_01_20
+    3300106: prop_01_21
+    3300108: prop_01_22
+    3300110: prop_01_23
+    3300112: prop_01_24
+    3300114: prop_01_25
+    3300116: prop_01_26
+    3300118: prop_01_27
+    3300120: prop_01_28
+    3300122: prop_01_29
+    3300124: prop_01_30
+    3300126: prop_01_31
+    4300000: prop_01_
+    4300002: prop_01_
+    4300004: prop_01_
+    4300006: prop_01_
+    4300008: prop_01_
+    4300010: prop_01_
+    4300012: prop_01_
+    4300014: prop_01_
+    4300016: prop_01_
+    4300018: prop_01_
+    4300020: prop_01_
+    4300022: prop_01_
+    4300024: prop_01_
+    4300026: prop_01_
+    4300028: prop_01_
+    4300030: prop_01_
+    4300032: prop_01_
+    4300034: prop_01_
+    4300036: prop_01_
+    4300038: prop_01_
+    4300040: prop_01_
+    4300042: prop_01_
+    4300044: prop_01_
+    4300046: prop_01_
+    4300048: prop_01_
+    4300050: prop_01_
+    4300052: prop_01_
+    4300054: prop_01_
+    4300056: prop_01_
+    4300058: prop_01_
+    4300060: prop_01_
+    4300062: prop_01_
+    4300064: prop_01_00
+    4300066: prop_01_01
+    4300068: prop_01_02
+    4300070: prop_01_03
+    4300072: prop_01_04
+    4300074: prop_01_05
+    4300076: prop_01_06
+    4300078: prop_01_07
+    4300080: prop_01_08
+    4300082: prop_01_09
+    4300084: prop_01_10
+    4300086: prop_01_11
+    4300088: prop_01_12
+    4300090: prop_01_13
+    4300092: prop_01_14
+    4300094: prop_01_15
+    4300096: prop_01_16
+    4300098: prop_01_17
+    4300100: prop_01_18
+    4300102: prop_01_19
+    4300104: prop_01_20
+    4300106: prop_01_21
+    4300108: prop_01_22
+    4300110: prop_01_23
+    4300112: prop_01_24
+    4300114: prop_01_25
+    4300116: prop_01_26
+    4300118: prop_01_27
+    4300120: prop_01_28
+    4300122: prop_01_29
+    4300124: prop_01_30
+    4300126: prop_01_31
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
